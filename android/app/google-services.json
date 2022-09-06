@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614344220264",
+    "firebase_url": "https://servisfymobile-default-rtdb.firebaseio.com",
+    "project_id": "servisfymobile",
+    "storage_bucket": "servisfymobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614344220264:android:c508676e25fafff65ca5dd",
+        "android_client_info": {
+          "package_name": "com.zexly.servisfy.servisfy_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614344220264-q2ta6n0qbh6v5mqor66vf2m1vm73ofdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBacrZJMzE0hxqZnlC09wOWx5t8rLFkyjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614344220264-q2ta6n0qbh6v5mqor66vf2m1vm73ofdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
